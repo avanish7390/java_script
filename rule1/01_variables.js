@@ -4,7 +4,7 @@ var accountPassword = "avanish55"
 accountCity = "lucknow"
 let accountState // only declare variables not assigned any value then give the output undefined
 // it is undefined 
-
+// let is  variable
 // accountId = 22 //const not allowed to change account
 
 accountEmail = "asdf@gmail.com"
