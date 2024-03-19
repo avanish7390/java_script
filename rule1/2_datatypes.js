@@ -1,6 +1,6 @@
 " use strict"; //treat all js code as newer versions
 
-// alert (3 + 3)  // we are using nodejs, not browser
+// alert (3 + 3)  // we are using nodejs, not browser //it is used in browser
 
 // console.log(3 + 3); console.log("avanish") // this code is readbility problem  and samicolan
 
@@ -26,7 +26,7 @@ let isLoggedIn = false // boolean true or false
 
   // object
 
-  console.log(typeof "avanish");  // typeof:   it find datatype 
+  console.log(typeof "avanish");  // typeof:   it find  type 
 
   console.log(undefined); //undefined
   
