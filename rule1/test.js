@@ -1,1 +1,1 @@
-console.log("Avanish")
+console.log("Avanish") // it is used to print in javascript
