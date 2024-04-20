@@ -112,3 +112,21 @@ let str3 =str1 + str2
 // let y= 7
 // ++y
 // console.log(y);// 8
+
+
+
+
+//**********************POSTFIX*********************** */
+
+let x = 7
+const y = x++
+
+console.log(x);
+console.log(y);
+
+
+//*********************PREFIX************************** */
+let a = 7
+const b = ++a
+console.log(a);
+console.log(b);
