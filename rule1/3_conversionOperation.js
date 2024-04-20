@@ -56,6 +56,7 @@ let stringNumber = String(someNumber)
 let someName = "avanish"
 let booleanName = Boolean(someName)
 // console.log(booleanName);// true
+
 // console.log(typeof booleanName); // boolean
 
 
