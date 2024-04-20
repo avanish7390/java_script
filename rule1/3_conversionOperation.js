@@ -62,3 +62,53 @@ let booleanName = Boolean(someName)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//****************************************************OPERATIONS************************************** */
+
+
+let value = 3 
+let negativeValue = -value
+// console.log(negativeValue); // -3
+// console.log(2+2); //4
+// console.log(2-2); // 0
+//console.log(2*2); // 4
+//console.log(2/2); // 1
+// console.log(2**6); // 64
+//console.log(50%2); // 0 remainder
+
+
+
+let str1 = "hello"
+let str2 = " world"
+let str3 =str1 + str2
+// console.log(str3); // "hello" + "world" => "hello world"
+
+// console.log(2 + "2"); // 22
+// console.log("2" + 2); // 22
+// console.log("2" + 2 + 2); // 222
+// console.log(2 + 2 + "2"); // 42
+
+// console.log((3 + 5) * (6  % 5)); //8
+
+// let x= 7
+// x++
+// console.log(x); // 8
+
+// let y= 7
+// ++y
+// console.log(y);// 8
